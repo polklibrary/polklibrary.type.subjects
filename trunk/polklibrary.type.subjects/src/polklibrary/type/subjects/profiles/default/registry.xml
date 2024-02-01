@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<registry>
+
+    <record name="polklibrary.type.subjects.disciplines">
+        <field type="plone.registry.field.Tuple">
+            <title>Disciplines</title>
+            <description>List of disciplines</description>
+            <value_type type="plone.registry.field.TextLine" />
+        </field>
+        <value>
+            <element>African American Studies</element>
+            <element>Anthropology</element>
+            <element>Art</element>
+            <element>Biographies</element>
+            <element>Biology</element>
+            <element>Business</element>
+            <element>Chemistry</element>
+            <element>Communications</element>
+            <element>Computer Science</element>
+            <element>Criminal Justice</element>
+            <element>Economics</element>
+            <element>Education</element>
+            <element>English</element>
+            <element>Environmental Studies</element>
+            <element>Fire and Emergency Response Management</element>
+            <element>Foreign Languages</element>
+            <element>Geography</element>
+            <element>Geology</element>
+            <element>History</element>
+            <element>Human Services</element>
+            <element>International Studies</element>
+            <element>Journalism</element>
+            <element>Kinesiology</element>
+            <element>LGBTQ Studies</element>
+            <element>Literacy and Language</element>
+            <element>Mathematics</element>
+            <element>Medical Technologies</element>
+            <element>Military Science</element>
+            <element>Music</element>
+            <element>Nursing</element>
+            <element>Philosophy</element>
+            <element>Physics and Astronomy</element>
+            <element>Political Science</element>
+            <element>Professional Counseling</element>
+            <element>Psychology</element>
+            <element>Public Administration</element>
+            <element>Radio-TV-Film</element>
+            <element>Religious Studies</element>
+            <element>Social Justice</element>
+            <element>Social Work</element>
+            <element>Sociology</element>
+            <element>Theatre</element>
+            <element>Urban Planning</element>
+            <element>Women's and Gender Studies</element>
+        </value>
+    </record>
+    
+</registry>
